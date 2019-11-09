@@ -34,17 +34,17 @@ struct DeviceType
 struct utilityObject {
     //    static var baseUrl = "http://192.168.1.12:2222/api/ApiService/"
     
-    static var kGoogleAPIKey = "AIzaSyD52oFY9aoN-JeMSSP_BNleMVVrGwvUCsY"
+    static var kGoogleAPIKey = ""
     static var kGoogleAPINSErrorCode = 42
     
     static var mainColor = UIColor.init(colorLiteralRed: 85/255.0, green: 6/255.0, blue: 121/255.0, alpha: 1)
     
-    static var baseUrl = "http://54.66.138.111:8082/vouxa/v1/"
+    static var baseUrl = ""
     
-    static let kQBApplicationID:UInt = 51071
-    static let kQBAuthKey = "f9av8gNcOkgzPDV"
-    static let kQBAuthSecret = "6mkmS93t5-mba6y"
-    static let kQBAccountKey = "qh3A3fLx89McsikagNzV"
+    static let kQBApplicationID:UInt = 12
+    static let kQBAuthKey = ""
+    static let kQBAuthSecret = ""
+    static let kQBAccountKey = ""
     
     static let kStatusAccepted = "Accepted"
     static let kStatusNoRequested = "Not Requested"
